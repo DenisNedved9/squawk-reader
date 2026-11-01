@@ -1,0 +1,4 @@
+7500: Unos letadla
+7600: Ztrata spojeni
+7700: Vseobecna nouze
+1200: Standardni VFR let
